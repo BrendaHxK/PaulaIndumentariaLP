@@ -1,0 +1,2249 @@
+[
+    {
+        "id": "mochila-01",
+        "titulo": "Mochila de Cuero PU",
+        "imagen": "./img/Mochilas/1_20240530_172413_0000.png",
+        "imagenes_adicionales": ["./img/Mochilas/2_20240530_172414_0001.png",
+        "img/Mochilas/MochilaPU2-Photoroom.jpg",
+        "img/Mochilas/MochilaPU1-Photoroom.jpg"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de cuero ecológico. Entra una carpeta A4.",
+        "medidas": "36cm de alto x 33cm de ancho",
+        "precio": "26.000"
+    },
+    {
+        "id": "mochila-02",
+        "titulo": "Mochila Pink + Riñonera",
+        "imagen": "img/Mochilas/MochilaPinkVarias.png",
+        "imagenes_adicionales": [
+            "./img/mochilas/Screenshot_20240824-205009-517.png",
+            "./img/Mochilas/Screenshot_20240824-205033-189.png",
+        "./img/mochilas/Screenshot_20240824-205124-132.png",
+        "./img/mochilas/Screenshot_20240824-205136-273.png",
+        "./img/Mochilas/Screenshot_20240824-205047-936.png",
+        "img/Mochilas/MochilaPinkRosaPerfili.png",
+        "img/Mochilas/MochilaPinkRosaPose.png",
+        "img/Mochilas/MochilaPinkRosaRini.png",
+        "./img/mochilas/Screenshot_20240824-205104-018.png",
+        "./img/mochilas/Screenshot_20240824-205021-496.png",
+        "img/Mochilas/MochilaPinkRosaMedidas.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila Pink + Riñonera",
+        "medidas": "41 cm de alto por 31cm de ancho",
+        "precio": "42.000"
+    },
+    {
+        "id": "mochila-03",
+        "titulo": "Mochila de tela impermeable",
+        "imagen": "./img/mochilas/Photoroom-20241028_084853.png",
+        "imagenes_adicionales": [
+        "./img/Mochilas/Photoroom-20241028_084909 (1).png", 
+        "img/Mochilas/Photoroom-20241028_084931.png",
+        "img/Mochilas/WhatsApp Image 2024-12-08 at 16.28.28.jpeg", 
+        "img/Mochilas/Photoroom-20241028_084758.png",
+        "img/Mochilas/WhatsApp Image 2024-12-08 at 16.28.28 (1).jpeg",
+        "img/Mochilas/WhatsApp Image 2024-12-08 at 16.28.28 (2).jpeg"
+            ],        
+        "categoria": {
+            "nombre": "Mochila",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila Impermeable grande, excelente calidad",
+        "medidas": "47cm de alto x 34cm de ancho",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-04",
+        "titulo": "Mochila Impermeable",
+        "imagen": "./img/mochilas/Photoroom-20241028_085755.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241028_085735.png",
+            "img/Mochilas/Photoroom-20241028_085817.png",
+            "img/Mochilas/Photoroom-20241028_085852 (1).png",
+            "img/Mochilas/Photoroom-20241028_090022.png",
+            "img/Mochilas/Photoroom-20241028_090043.png",
+            "img/Mochilas/WhatsApp Image 2024-12-08 at 16.40.36.jpeg"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de tela impermeable, grande, varios compartimentos.",
+        "medidas": "47cm de alto por 34cm de ancho",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-05",
+        "titulo": "Mochila de tela impermeable",
+        "imagen": "./img/mochilas/Screenshot_20240827-182948-925.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Screenshot_20240827-182937-941.png", 
+            "img/Mochilas/Screenshot_20240827-183002-397.png",
+            "img/Mochilas/Screenshot_20240827-183013-322.png",
+            "img/Mochilas/Screenshot_20240827-182926-626.png",
+            "img/Mochilas/MochilaMembranaMedidas.png",
+            "img/Mochilas/MochilaMembranaCompartimentos.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila impermeable. 45L de capacidad. Cuenta con compartimento para notebook.",
+        "medidas": "45cm de alto, 31cm de ancho, 15cm de profundidad",
+        "precio": "40.000"
+    },
+    {
+        "id": "mochila-06",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Screenshot_20241014-131410-154.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Screenshot_20241014-131435-013.png", 
+            "img/Mochilas/Screenshot_20241014-131423-080.png",
+            "img/Mochilas/Screenshot_20241014-131456-589.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de lona, con compartimento para notebook incluído.",
+        "medidas": "45cm de alto, 30cm de ancho y 13cm de profundidad",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-07",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Screenshot_20241027-214807-468.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Screenshot_20241027-214818-840.png",
+            "img/Mochilas/Screenshot_20241027-214830-741.png",
+            "img/Mochilas/Screenshot_20241027-214840-222.png",
+            "img/Mochilas/Screenshot_20241027-214850-276.png",
+            "img/Mochilas/Screenshot_20241027-214909-481.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "medidas": "38cm de alto, 29cm de largo y 14cm de profundidad.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-08",
+        "titulo": "Mochila reforzada",
+        "imagen": "./img/mochilas/2_20240601_122818_0001.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/1_20240601_122818_0000.png",
+            "img/Mochilas/3_20240601_122818_0002.png",
+            "img/Mochilas/5_20240601_122818_0004.png",
+            "img/Mochilas/6_20240601_122818_0005.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila impermeable, reforzada. Varios compartimentos.",
+        "medidas": "48cm de alto por 35cm de largo.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-09",
+        "titulo": "Mochila / Morral",
+        "imagen": "img/Mochilas/1_20240601_124429_0000.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/4_20240601_124429_0003.png",
+            "img/Mochilas/6_20240601_124429_0005.png",
+            "img/Mochilas/5_20240601_124429_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria porta notebook, hecha con tela de avión. Cuenta con tira desmontable para utilizar como morral.",
+        "medidas": "45cm de alto por 32cm de largo.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-10",
+        "titulo": "Mochila impermeable",
+        "imagen": "./img/mochilas/1_20240930_122444_0000.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/2_20240930_122444_0001.png",
+            "img/Mochilas/3_20240930_122444_0002.png",
+            "img/Mochilas/4_20240930_122444_0003.png",
+            "img/Mochilas/5_20240930_122444_0004.png",
+            "img/Mochilas/6_20240930_122444_0005.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "medidas": "45cm de alto por 31cm de largo.",
+        "precio": "37.000"
+    },
+    {
+        "id": "mochila-11",
+        "titulo": "Mochila de Cuero PU",
+        "imagen": "./img/mochilas/4_20240530_172414_0003.png",
+        "imagenes_adicionales": [
+            ""
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Entra una carpeta A4.",
+        "medidas": "38cm de alto por 32cm de largo.",
+        "precio": "27.000"
+    },
+    {
+        "id": "mochila-12",
+        "titulo": "Mochila impermeable",
+        "imagen": "./img/mochilas/7_20240601_124429_0006.png",
+        "imagenes_adicionales": ["img/Mochilas/8_20240601_124429_0007.png",
+        "img/Mochilas/9_20240601_124429_0008.png",
+        "img/Mochilas/10_20240601_124429_0009.png",
+        "img/Mochilas/11_20240601_124430_0010.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "medidas": "48cm de alto por 36cm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "mochila-13",
+        "titulo": "REVISARRRR",
+        "imagen": "./img/mochilas/8_20240601_123544_0007.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/9_20240601_123544_0008.png",
+            "img/Mochilas/6_20240601_123544_0005.png",
+            "img/Mochilas/7_20240601_123544_0006.png",
+            "img/Mochilas/12_20240601_123544_0011.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-14",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/8_20240601_130836_0007.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/7_20240601_130836_0006.png",
+            "img/Mochilas/6_20240601_130836_0005.png",
+            "img/Mochilas/9_20240601_130836_0008.png",
+            "img/Mochilas/10_20240601_130836_0009.png",
+            "img/Mochilas/11_20240601_130836_0010.png",
+            "img/Mochilas/12_20240601_130836_0011.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila grande reforzada.",
+        "medidas": "50cm de alto por 35cm de largo.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-15",
+        "titulo": "Mochila reforzada",
+        "imagen": "./img/mochilas/9_20240601_130129_0008.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/10_20240601_130129_0009.png",
+            "img/Mochilas/11_20240601_130129_0010.png",
+            "img/Mochilas/12_20240601_130129_0011.png",
+            "img/Mochilas/13_20240601_130129_0012.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila reforzada, multiples compartimentos",
+        "medidas": "47cm de alto por 35cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-16",
+        "titulo": "Mochila universitaria",
+        "imagen": "",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria de lona impermeable y cuero ecológico.",
+        "medidas": "38cm de alto por 28cm de largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "mochila-17",
+        "titulo": "Mochila impermeable",
+        "imagen": "./img/mochilas/17_20240602_145753_0016.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/20_20240602_145753_0019.png",
+            "img/Mochilas/18_20240602_145753_0017.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria de lona impermeable.",
+        "medidas": "37cm de alto por 28cm de largo.",
+        "precio": "32.000"
+    },
+    {
+        "id": "mochila-18",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/IMG_20240420_013046.jpg",
+        "imagenes_adicionales": [
+            "img/Mochilas/IMG_20240420_014205.jpg",
+            "img/Mochilas/IMG_20240420_014128.jpg"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila ideal para notebook.",
+        "medidas": "40cm de alto, 28cm de ancho y 10cm de profundidad.",
+        "precio": "33.000"
+    },
+    {
+        "id": "mochila-19",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Photoroom-20240629_131355.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240629_131424.png",
+            "img/Mochilas/Photoroom-20240629_131618.png",
+            "img/Mochilas/Photoroom-20240629_131452.png",
+            "img/Mochilas/Photoroom-20240629_131524.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-20",
+        "titulo": "Mochila reforzada",
+        "imagen": "img/Mochilas/Photoroom-20240812_195136~2.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240812_194856~2.png",
+            "img/Mochilas/Photoroom-20240812_195241~2.png",
+            "img/Mochilas/Photoroom-20240812_194727~2.png",
+            "img/Mochilas/Photoroom-20240812_195003~2.png",
+            "img/Mochilas/Photoroom-20240812_195205~2.png",
+            "img/Mochilas/Photoroom-20240812_195105~2.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila impermeable, reforzada.",
+        "medidas": "47cm de alto x 34cm de ancho.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-21",
+        "titulo": "Mochila",
+        "imagen": "img/Mochilas/Photoroom-20240812_204004~2.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240812_203556~2.png",
+            "img/Mochilas/Photoroom-20240812_204034~2.png",
+            "img/Mochilas/Photoroom-20240812_204136~2.png",
+            "img/Mochilas/Photoroom-20240812_203929~2.png",
+            "img/Mochilas/Photoroom-20240812_204107~2.png",
+            "img/Mochilas/Photoroom-20240812_204210~2.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "medidas": "45cm de alto por 31cm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "mochila-22",
+        "titulo": "Mochila impermeable",
+        "imagen": "./img/mochilas/Photoroom-20240816_100945~2.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240816_100827~3.png",
+            "img/Mochilas/Photoroom-20240816_100856~2.png",
+            "img/Mochilas/Photoroom-20240816_101017~2.png",
+            "img/Mochilas/Photoroom-20240812_204210~2.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila reforzada e impermeable, excelente calidad.",
+        "medidas": "50cm de alto por 35cm de largo.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-23",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Photoroom-20240918_110010.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240918_110026.png",
+            "img/Mochilas/Photoroom-20240918_110040.png",
+            "img/Mochilas/Photoroom-20240918_110053.png",
+            "img/Mochilas/Photoroom-20240918_110129.png",
+            "img/Mochilas/Photoroom-20240918_110109.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila reforzada, impermeable.",
+        "medidas": "50cm de alto por 35cm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "mochila-24",
+        "titulo": "Mochila universitaria",
+        "imagen": "./img/mochilas/Photoroom-20240909_181929.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20240909_181751.png",
+            "img/Mochilas/Photoroom-20240909_181810.png",
+            "img/Mochilas/Photoroom-20240909_181717.png",
+            "img/Mochilas/Photoroom-20240909_181909.png",
+            "img/Mochilas/Photoroom-20240909_181844.png",
+            "./img/mochilas/11_20240530_172414_0010.png",
+            "img/Mochilas/14_20240530_172414_0013.png",
+            "img/Mochilas/12_20240530_172414_0011.png",
+            "img/Mochilas/13_20240530_172414_0012.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria de lona impermeable y cuero ecológico.",
+        "medidas": "38cm de alto por 28cm de largo",
+        "precio": "35.000"
+    },
+    {
+        "id": "mochila-25",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Photoroom-20241001_192437.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241001_192406.png",
+            "img/Mochilas/Photoroom-20241001_192423.png",
+            "img/Mochilas/Photoroom-20241001_192510.png",
+            "img/Mochilas/Photoroom-20241001_192529.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "medidas": "48cm de alto por 36cm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "mochila-26",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Photoroom-20241007_160137_34.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241007_160137_32.png",
+            "img/Mochilas/Photoroom-20241007_160137_35.png",
+            "img/Mochilas/Photoroom-20241007_160137_33.png",
+            "img/Mochilas/Photoroom-20241007_160137_36.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-27",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/Photoroom-20241007_160227_11.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241007_160227_10.png",
+            "img/Mochilas/Photoroom-20241007_160227_9.png",
+            "img/Mochilas/Photoroom-20241007_160227_8.png",
+            "img/Mochilas/Photoroom-20241007_160227_13.png",
+            "img/Mochilas/Photoroom-20241007_160227_12.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria impermeable.",
+        "medidas": "32cm de alto por 30cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-28",
+        "titulo": "Mochila universitaria",
+        "imagen":"img/Mochilas/Photoroom-20241008_185121_12.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185121_11.png",
+            "img/Mochilas/Photoroom-20241008_185121_8.png",
+            "img/Mochilas/Photoroom-20241008_185121_10.png",
+            "img/Mochilas/Photoroom-20241008_185121_13.png",
+            "img/Mochilas/Photoroom-20241008_185121_9.png",
+            "img/Mochilas/Photoroom-20241008_185122_14.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochilas universitaria, reforzada e impermeable.",
+        "medidas": "40cm de alto por 30cm de ancho",
+        "precio": "44.000"
+    },
+    {
+        "id": "mochila-29",
+        "titulo": "Mochila reforzada",
+        "imagen": "img/Mochilas/Photoroom-20241008_185121_5.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185121_2.png",
+            "img/Mochilas/Photoroom-20241008_185121_4.png",
+            "img/Mochilas/Photoroom-20241008_185121_3.png",
+            "img/Mochilas/Photoroom-20241008_185121_1.png",
+            "img/Mochilas/Photoroom-20241008_185121_7.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila reforzada, tela de avión, cuenta con varios compartimentos.",
+        "medidas": "40cm de alto por 30cm de ancho.",
+        "precio": "49.000"
+    },
+    {
+        "id": "mochila-30",
+        "titulo": "Mochila de Cuero PU",
+        "imagen": "img/Mochilas/Photoroom-20241008_185122_26.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185122_28.png",
+            "img/Mochilas/Photoroom-20241008_185122_30.png",
+            "img/Mochilas/Photoroom-20241008_185122_27.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de cuero PU, excelente calidad.",
+        "medidas": "29cm de alto por 23cm de largo.",
+        "precio": "42.000"
+    },
+    {
+        "id": "mochila-31",
+        "titulo": "Mochila de Cuero PU",
+        "imagen": "img/Mochilas/Photoroom-20241008_185123_32.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185123_33.png",
+            "img/Mochilas/Photoroom-20241008_185123_34.png",
+            "img/Mochilas/Photoroom-20241008_185123_35.png",
+            "img/Mochilas/Photoroom-20241008_185123_36.png",
+            "img/Mochilas/Photoroom-20241008_185123_37.png",
+            "img/Mochilas/Photoroom-20241008_185123_38.png",
+            "img/Mochilas/Photoroom-20241008_185123_39.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de cuero PU",
+        "tamano": "29cm de alto por 23cm de largo.",
+        "precio": "42.000"
+    },
+    {
+        "id": "mochila-32",
+        "titulo": "Mochila + cartuchera",
+        "imagen": "img/Mochilas/Photoroom-20241008_185123_45.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185123_40.png",
+            "img/Mochilas/Photoroom-20241008_185123_41.png",
+            "img/Mochilas/Photoroom-20241008_185123_42.png",
+            "img/Mochilas/Photoroom-20241008_185123_43.png",
+            "img/Mochilas/Photoroom-20241008_185123_44.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila de cuero PU grande, incluye cartuchera.",
+        "medidas": "39cm de alto por 28cm de largo.",
+        "precio": "46.000"
+    },
+    {
+        "id": "mochila-33",
+        "titulo": "Mochila + llavero",
+        "imagen": "img/Mochilas/Photoroom-20241008_185336_1.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185337_3.png",
+            "img/Mochilas/Photoroom-20241008_185337_4.png",
+            "img/Mochilas/Photoroom-20241008_185337_5.png",
+            "img/Mochilas/Photoroom-20241008_185337_2.png",
+            "img/Mochilas/Photoroom-20241008_185337_6.png",
+            "img/Mochilas/Photoroom-20241008_185337_7.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila impermeable, incluye llavero desmontable.",
+        "medidas": "37cm de alto por 25cm de largo.",
+        "precio": "32.000"
+    },
+    {
+        "id": "mochila-34",
+        "titulo": "Mochila",
+        "imagen": "img/Mochilas/Photoroom-20241008_185657_13.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185657_14.png",
+            "img/Mochilas/Photoroom-20241008_185658_15.png",
+            "img/Mochilas/Photoroom-20241008_185658_16.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila grande impermeable.",
+        "medidas": "46cm de alto por 31cm de largo.",
+        "precio": "40.000"
+    },
+    {
+        "id": "mochila-35",
+        "titulo": "Mochila",
+        "imagen": "img/Mochilas/Photoroom-20241008_185658_24.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185658_23.png",
+            "img/Mochilas/Photoroom-20241008_185658_22.png",
+            "img/Mochilas/Photoroom-20241008_185658_21.png",
+            "img/Mochilas/Photoroom-20241008_185658_25.png",
+            "img/Mochilas/Photoroom-20241008_185658_27.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "",
+        "tamano": "46cm de alto por 31cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-36",
+        "titulo": "Mochilas universitaria",
+        "imagen": "img/Mochilas/Photoroom-20241008_185122_15.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185122_18.png",
+            "img/Mochilas/Photoroom-20241008_185122_16.png",
+            "img/Mochilas/Photoroom-20241008_185122_17.png",
+            "img/Mochilas/Photoroom-20241008_185122_19.png" 
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila universitaria, hecha con tela de avión impermeable.",
+        "medidas": "40cm de alto por 30cm de largo.",
+        "precio": "39.000"
+    },
+    {
+        "id": "mochila-37",
+        "titulo": "Mochila",
+        "imagen": "img/Mochilas/Photoroom-20241008_185122_23.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Photoroom-20241008_185122_21.png",
+            "img/Mochilas/Photoroom-20241008_185122_24.png",
+            "img/Mochilas/Photoroom-20241008_185122_22.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila reforzada e impermeable.",
+        "medidas": "40cm de alto por 30cm de largo.",
+        "precio": "37.000"
+    },
+    {
+        "id": "mochila-38",
+        "titulo": "Mochila + monederito",
+        "imagen": "img/Mochilas/MochNegraMonedero.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/MochRojoMonedero.png",
+            "img/Mochilas/MochRosaMonedero.png",
+            "img/Mochilas/MochAzulMonedero.png",
+            "img/Mochilas/MochGrisMonedero.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila + monederito desmontable, hecho con tela de avión.",
+        "medidas": "36cm de alto por 25cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "mochila-38.1",
+        "titulo": "Mochila",
+        "imagen": "./img/mochilas/main.webp",
+        "imagenes_adicionales": [
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "dgogdohgodhg",
+        "medidas": "25 x 25",
+        "precio": "1000"
+    },
+    {
+        "id": "mochila-39",
+        "titulo": "Mini mochila",
+        "imagen": "./img/mochilas/Sbc3d31b4f251453bb6fca1772c62898bH.jpg_640x640Q90.jpg_.webp",
+        "imagenes_adicionales": [
+            "img/Mochilas/51Ym4frt3rL._AC_UF894,1000_QL80_FMwebp_.webp",
+            "img/Mochilas/Mochilita marron.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila mini de cuero PU.",
+        "medidas": "20cm de alto, 8cm de profundidad y 17cm de largo.",
+        "precio": "18.000"
+    },
+    {
+        "id": "mochila-40",
+        "titulo": "Mochila antirrobo + cable usb",
+        "imagen": "./img/mochilas/Screenshot_20240427-233314~2.png",
+        "imagenes_adicionales": [
+            "img/Mochilas/Screenshot_20240427-233311~2.png"
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "Mochila antirrobo, incluye cable USB. Multiples compartimentos.",
+        "medidas": "43cm de alto por 26cm de largo.",
+        "precio": "36.000"
+    },
+    {
+        "id": "mochila-41",
+        "titulo": "No hay mas",
+        "imagen": "",
+        "imagenes_adicionales": [
+            ""
+            ],
+        "categoria": {
+            "nombre": "Mochilas",
+            "id": "mochilas"
+        },
+        "descripcion": "dgogdohgodhg",
+        "medidas": "25 x 25",
+        "precio": "25.000"
+    },
+
+    {
+        "id": "cyb-01",
+        "titulo": "Cartera / morral de cuero PU ",
+        "imagen": "./img/cyb/20241011_123759_0006.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_123759_0007.png",
+            "img/cyb/20241011_123759_0008.png",
+            "img/cyb/20241011_123759_0002.png",
+            "img/cyb/20241011_123759_0003.png",
+            "img/cyb/20241011_123758_0000.png",
+            "img/cyb/20241011_123759_0001.png",
+            "img/cyb/20241011_123759_0005.png",
+            "img/cyb/20241011_123759_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "dgogdohgodhg",
+        "medidas": "25 x 25",
+        "precio": "26.000"
+    },
+    {
+        "id": "cyb-02",
+        "titulo": "Cartera Tote Bag",
+        "imagen": "./img/cyb/Screenshot_20241106-153411-296.png",
+        "imagenes_adicionales": [
+            "img/cyb/Screenshot_20241106-153419-236.png",
+            "img/cyb/Screenshot_20241106-153431-482.png",
+            "img/cyb/Screenshot_20241106-153439-352.png",
+            "img/cyb/Screenshot_20241106-153447-977.png",
+            "img/cyb/Screenshot_20241106-153456-050.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera Tote Bag",
+        "medidas": "21cm de alto por 27cm de largo.",
+        "precio": "55.000"
+    },
+    {
+        "id": "cyb-03",
+        "titulo": "Morral de tela de avión",
+        "imagen": "./img/cyb/20241012_182719_0000.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_182719_0001.png",
+            "img/cyb/20241012_182719_0007.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Morral de tela impermeable",
+        "medidas": "23cm de alto por 20cm largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "cyb-04",
+        "titulo": "Cartera / morral",
+        "imagen": "img/cyb/20241012_180706_0005.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_180705_0001.png",
+            "img/cyb/20241012_180705_0002.png",
+            "img/cyb/20241012_180705_0003.png",
+            "img/cyb/20241012_180706_0006.png",
+            "img/cyb/20241012_180706_0007.png",
+            "./img/cyb/20241012_180705_0000.png",
+            "img/cyb/20241012_180705_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral de cuero PU, tres compartimentos. Incluye tira sublimada y de cuero.",
+        "medidas": "19cm de alto por 26cm de largo.",
+        "precio": "44.000"
+    },
+    {
+        "id": "cyb-05",
+        "titulo": "Cartera / morral de cuero PU",
+        "imagen": "./img/cyb/20241012_180706_0013.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_180706_0011.png",
+            "img/cyb/20241012_180706_0015.png",
+            "img/cyb/20241012_180706_0008.png",
+            "img/cyb/20241012_180706_0012.png",
+            "img/cyb/20241012_180706_0014.png",
+            "img/cyb/20241012_180706_0016.png",
+            "img/cyb/20241012_180706_0009.png",
+            "img/cyb/20241012_180706_0010.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral de cuero PU, tres compartimentos. Incluye tira sublimada y de cuero.",
+        "medidas": "19cm de alto por 26cm de largo.",
+        "precio": "42.000"
+    },
+    {
+        "id": "cyb-06",
+        "titulo": "Cartera",
+        "imagen": "./img/cyb/20241012_173728_0011.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_173728_0010.png",
+            "img/cyb/20241012_173728_0006.png",
+            "img/cyb/20241012_173728_0005.png",
+            "img/cyb/20241012_173728_0007.png",
+            "img/cyb/20241012_173728_0009.png",
+            "img/cyb/20241012_173728_0008.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Carterita de cuero PU",
+        "medidas": "16cm de alto por 21cm de largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "cyb-07",
+        "titulo": "Bolso casual Pink",
+        "imagen": "./img/cyb/9_20241012_171504_0008.png",
+        "imagenes_adicionales": [
+            "img/cyb/6_20241012_171504_0005.png",
+            "img/cyb/10_20241012_171504_0009.png",
+            "img/cyb/11_20241012_171504_0010.png",
+            "img/cyb/7_20241012_171504_0006.png",
+            "img/cyb/Screenshot_20240505-125552~2.png",
+            "img/cyb/8_20241012_171504_0007.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "16cm de alto por 24cm de largo.",
+        "precio": "32.000"
+    },
+    {
+        "id": "cyb-08",
+        "titulo": "Bolso / morral puffer",
+        "imagen": "./img/cyb/20241012_173728_0004.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_173727_0001.png",
+            "img/cyb/20241012_173727_0002.png",
+            "img/cyb/20241012_173728_0003.png",
+            "img/cyb/20241012_173727_0000.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Bolso / morral puffer, impermeable.",
+        "medidas": "26cm de alto por 36cm de largo.",
+        "precio": "38.000"
+    },
+    {
+        "id": "cyb-09",
+        "titulo": "Cartera",
+        "imagen": "./img/cyb/1_20241012_171504_0000.png",
+        "imagenes_adicionales": [
+            "img/cyb/2_20241012_171504_0001.png",
+            "img/cyb/3_20241012_171504_0002.png",
+            "img/cyb/4_20241012_171504_0003.png",
+            "img/cyb/5_20241012_171504_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "",
+        "precio": "27.000"
+    },
+    {
+        "id": "cyb-10",
+        "titulo": "Bolso",
+        "imagen": "./img/cyb/20241012_160123_0010.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_160123_0008.png",
+            "img/cyb/20241012_160123_0011.png",
+            "img/cyb/20241012_160123_0012.png",
+            "img/cyb/20241012_160123_0007.png",
+            "img/cyb/20241012_160123_0009.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "30cm de alto por 40cm largo.",
+        "precio": "45.000"
+    },
+    {
+        "id": "cyb-11",
+        "titulo": "Cartera / morral",
+        "imagen": "./img/cyb/20241012_160122_0000.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_160123_0001.png",
+            "img/cyb/20241012_160123_0002.png",
+            "img/cyb/20241012_160123_0003.png",
+            "img/cyb/20241012_160123_0004.png",
+            "img/cyb/20241012_160123_0005.png",
+            "img/cyb/20241012_160123_0006.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral, incluye tira larga. Doble compartimento.",
+        "medidas": "25cm de alto por 35cm de largo.",
+        "precio": "45.000"
+    },
+    {
+        "id": "cyb-12",
+        "titulo": "Bolso",
+        "imagen": "img/cyb/20241011_203925_0001.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_203925_0000.png",
+            "img/cyb/20241011_203925_0003.png",
+            "img/cyb/20241011_203925_0002.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Bolso / morral grande, incluye tira larga.",
+        "medidas": "36cm de alto por 42cm de largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "cyb-13",
+        "titulo": "Cartera de cuero PU",
+        "imagen": "./img/cyb/8_20241012_163801_0007.png",
+        "imagenes_adicionales": [
+            "img/cyb/7_20241012_163801_0006.png",
+            "img/cyb/9_20241012_163801_0008.png",
+            "img/cyb/5_20241012_163800_0004.png",
+            "img/cyb/10_20241012_163801_0009.png",
+            "img/cyb/6_20241012_163800_0005.png"
+
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera con tira desmontable, excelente calidad. Hecha con cuero ecológico.",
+        "medidas": "21cm de alto por 27cm de largo.",
+        "precio": "32.000"
+    },
+    {
+        "id": "cyb-14",
+        "titulo": "Cartera",
+        "imagen": "./img/cyb/20241012_140321_0002.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_140320_0000.png",
+            "img/cyb/20241012_140321_0004.png",
+            "img/cyb/20241012_140321_0003.png",
+            "img/cyb/20241012_140321_0006.png",
+            "img/cyb/20241012_140321_0001.png",
+            "img/cyb/20241012_140321_0005.png",
+            "img/cyb/20241012_140321_0007.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral de cuero PU, doble compartimento, incluye tira larga.",
+        "medidas": "24cm de alto por 36cm de largo.",
+        "precio": "45.000"
+    },
+    {
+        "id": "cyb-15",
+        "titulo": "Bolso de cuero ecológico",
+        "imagen": "./img/cyb/20241012_140321_0009.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_140321_0010.png",
+            "img/cyb/20241012_140321_0011.png",
+            "img/cyb/20241012_140321_0013.png",
+            "img/cyb/20241012_140321_0012.png",
+            "img/cyb/20241012_140321_0008.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Bolso de cuero ecológico, incluye tura larga.",
+        "medidas": "30cm de alto por 40cm de largo.",
+        "precio": "45.000"
+    },
+    {
+        "id": "cyb-16",
+        "titulo": "Cartera",
+        "imagen": "img/cyb/20241012_092717_0000.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241012_092717_0002.png",
+            "img/cyb/20241012_092717_0003.png",
+            "img/cyb/20241012_092717_0005.png",
+            "img/cyb/20241012_092717_0001.png",
+            "img/cyb/20241012_092717_0004.png",
+            "img/cyb/20241012_092717_0006.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera de cuero PU, espaciosa, excelente calidad.",
+        "medidas": "31cm de alto por 42cm de largo.",
+        "precio": "46.000"
+    },
+    {
+        "id": "cyb-17",
+        "titulo": "Bolso de cuero ecológico",
+        "imagen": "./img/cyb/20241011_213719_0000.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_213719_0001.png",
+            "img/cyb/20241011_213719_0002.png",
+            "img/cyb/20241011_213719_0004.png",
+            "img/cyb/20241011_213719_0003.png",
+            "img/cyb/20241011_213719_0005.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Incluye tira larga desmontable.",
+        "medidas": "24cm de alto por 40cm de largo.",
+        "precio": "49.000"
+    },
+    {
+        "id": "cyb-18",
+        "titulo": "Cartera",
+        "imagen": "img/cyb/20241011_220224_0003.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_220224_0001.png",
+            "img/cyb/20241011_220225_0005.png",
+            "img/cyb/20241011_220225_0006.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "26cm de alto por 30cm de largo.",
+        "precio": "47.000"
+    },
+    {
+        "id": "cyb-19",
+        "titulo": "Cartera",
+        "imagen": "./img/cyb/20241011_221624_0005.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_221624_0003.png",
+            "img/cyb/20241011_221624_0002.png",
+            "img/cyb/20241011_221624_0004.png",
+            "img/cyb/20241011_221624_0001.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera grande, de cuero PU.",
+        "medidas": "31cm de alto por 42cm de largo.",
+        "precio": "46.000"
+    },
+    {
+        "id": "cyb-20",
+        "titulo": "Bolso",
+        "imagen": "./img/cyb/20241011_212221_0004.png",
+        "imagenes_adicionales": [
+            "img/cyb/20241011_212221_0003.png",
+            "img/cyb/20241011_212221_0002.png",
+            "img/cyb/20241011_212221_0001.png",
+            "img/cyb/20241011_212221_0000.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Bolso de cuero PU.",
+        "medidas": "25cm de alto por 40cm de largo.",
+        "precio": "49.000"
+    },
+    {
+        "id": "cyb-21",
+        "titulo": "No hay mas",
+        "imagen": "./img/cyb/Photoroom-20240909_180812.png",
+        "imagenes_adicionales": [
+            "img/cyb/Photoroom-20240909_180742.png",
+            "img/cyb/Photoroom-20240909_180757.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "dgogdohgodhg",
+        "medidas": "25 x 25",
+        "precio": "1000"
+    },
+    {
+        "id": "cyb-22",
+        "titulo": "Bolso",
+        "imagen": "./img/cyb/11_20241011_210335_0010.png",
+        "imagenes_adicionales": [
+            "img/cyb/8_20241011_210335_0007.png",
+            "img/cyb/6_20241011_210335_0005.png",
+            "img/cyb/4_20241011_210335_0003.png",
+            "img/cyb/3_20241011_210335_0002.png",
+            "img/cyb/2_20241011_210335_0001.png",
+            "img/cyb/1_20241011_210334_0000.png",
+            "img/cyb/10_20241011_210335_0009.png",
+            "img/cyb/9_20241011_210335_0008.png",
+            "img/cyb/7_20241011_210335_0006.png",
+            "img/cyb/5_20241011_210335_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "36cm de alto por 30cm de largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "cyb-23",
+        "titulo": "Cartera forma de corazón",
+        "imagen":"img/cyb/Screenshot_20240531-105806~2.png",
+        "imagenes_adicionales": [
+            "img/cyb/Screenshot_20240526-142134~2.png",
+            "img/cyb/Screenshot_20240506-224047~2.png",
+            "img/cyb/Screenshot_20240506-224105~2.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "",
+        "medidas": "",
+        "precio": "25.000"
+    },
+    {
+        "id": "cyb-24",
+        "titulo": "No hay mas",
+        "imagen": "./img/cyb/18_20240609_215952_0017.png",
+        "imagenes_adicionales": [
+            "img/cyb/19_20240609_215952_0018.png",
+            "img/cyb/20_20240609_215952_0019.png",
+            "img/cyb/21_20240609_215952_0020.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "1000"
+    },
+    {
+        "id": "cyb-25",
+        "titulo": "Morral",
+        "imagen": "img/Riñoneras y pecheras/20240928_115448_0000.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/20240928_115448_0001.png",
+            "img/Riñoneras y pecheras/20240928_115448_0002.png",
+            "img/Riñoneras y pecheras/20240928_115448_0003.png",
+            "img/Riñoneras y pecheras/20240928_115448_0004.png",
+            "img/Riñoneras y pecheras/20240928_115448_0005.png",
+            "img/Riñoneras y pecheras/20240928_115448_0006.png",
+            "img/Riñoneras y pecheras/20240928_115448_0007.png"
+            ],
+        "categoria": {
+            "nombre": "Carteras y bolsos",
+            "id": "caryb"
+        },
+        "descripcion": "Cartera / morral de cuero PU y tiras estampadas.",
+        "medidas": "18cm de alto por 25cm de largo.",
+        "precio": "23.000"
+    },
+    {
+        "id": "P-01",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20241129_121049.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20241129_121110.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_121004.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_121128.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_121022.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_121207.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_121146.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Impermeable.",
+        "medidas": "31cm de alto por 21cm de ancho.",
+        "precio": "24.000"
+    },
+    {
+        "id": "P-02",
+        "titulo": "Morral cruzado impermeable",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20241129_123239.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20241129_123324.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_123302.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_123345.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_123409.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_123427.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_123445.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 19cm de largo.",
+        "precio": "24.000"
+    },
+    {
+        "id": "P-03",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/3_20240601_002603_0002.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/1_20240601_002603_0000.png",
+            "img/Riñoneras y pecheras/2_20240601_002603_0001.png",
+            "img/Riñoneras y pecheras/4_20240601_002603_0003.png",
+            "img/Riñoneras y pecheras/5_20240601_002603_0004.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Impermeable.",
+        "medidas": "30cm de alto por 17cm de largo.",
+        "precio": "24.000"
+    },
+    {
+        "id": "P-04",
+        "titulo": "Pechera de Boca",
+        "imagen": "img/Riñoneras y pecheras/1_20240601_122100_0000.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/10_20240601_120713_0009.png",
+            "img/Riñoneras y pecheras/2_20240601_122100_0001.png",
+            "img/Riñoneras y pecheras/3_20240601_122101_0002.png",
+            "img/Riñoneras y pecheras/4_20240601_122101_0003.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Pechera de Boca Juniors, original.",
+        "medidas": "35cm de alto por 25cm de largo.",
+        "precio": "26.000"
+    },
+    {
+        "id": "P-05",
+        "titulo": "Pechera de River",
+        "imagen": "img/Riñoneras y pecheras/6_20240601_120713_0005.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/7_20240601_120713_0006.png",
+            "img/Riñoneras y pecheras/8_20240601_120713_0007.png",
+            "img/Riñoneras y pecheras/9_20240601_120713_0008.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Pechera de River Plate, original.",
+        "medidas": "35cm de alto por 25cm de largo",
+        "precio": "26.000"
+    },
+    {
+        "id": "P-06",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/3_20240601_120713_0002.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/2_20240601_120713_0001.png",
+            "img/Riñoneras y pecheras/1_20240601_120712_0000.png",
+            "img/Riñoneras y pecheras/4_20240601_120713_0003.png",
+            "img/Riñoneras y pecheras/5_20240601_120713_0004.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Es impermeable.",
+        "medidas": "31cm de alto por 19cm de largo.",
+        "precio": "24.000"
+    },
+    {
+        "id": "P-07",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20240629_125835.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20240629_125906.png",
+            "img/Riñoneras y pecheras/Photoroom-20240629_125750.png",
+            "img/Riñoneras y pecheras/Photoroom-20240629_125640.png",
+            "img/Riñoneras y pecheras/Photoroom-20240629_130041.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 21cm de largo.",
+        "precio": "24.000"
+    },
+    {
+        "id": "P-08",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20240817_104503~2.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20240817_104528~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104617~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104638~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104551~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104708 (1)~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104824~2.png",
+            "img/Riñoneras y pecheras/Photoroom-20240817_104753~2.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 19cm de largo.",
+        "precio": "25.200"
+    },
+    {
+        "id": "P-09",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/Screenshot_20240826-173736-128.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Screenshot_20240826-173747-056.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 21cm de largo.",
+        "precio": "21.000"
+    },
+    {
+        "id": "P-10",
+        "titulo": "Morral cruzado grande",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20240924_213949.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20240924_214003.png",
+            "img/Riñoneras y pecheras/Photoroom-20240924_214017.png",
+            "img/Riñoneras y pecheras/Photoroom-20240924_214032.png",
+            "img/Riñoneras y pecheras/Photoroom-20240924_214104.png",
+            "img/Riñoneras y pecheras/Photoroom-20240924_214047.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Morral cruzado grande, de tela impermeable, engomado, varios compartimentos. Trae cable USB.",
+        "medidas": "31cm de alto por 22cm de largo.",
+        "precio": "27.000"
+    },
+    {
+        "id": "P-11",
+        "titulo": "Morral cruzado militar",
+        "imagen": "img/Riñoneras y pecheras/Screenshot_20240922-190227-090.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Screenshot_20240922-190102-371.png",
+            "img/Riñoneras y pecheras/Screenshot_20240922-190133-270.png",
+            "img/Riñoneras y pecheras/Screenshot_20240922-190143-102.png",
+            "img/Riñoneras y pecheras/Screenshot_20240922-190121-766.png",
+            "img/Riñoneras y pecheras/Screenshot_20240922-190154-447.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 21cm de largo.",
+        "precio": "23.000"
+    },
+    {
+        "id": "P-12",
+        "titulo": "Morral cruzado",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20241129_122237.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20241129_122254.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_122414.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_122432.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_122317.png",
+            "img/Riñoneras y pecheras/Photoroom-20241129_122356.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "Morral cruzado, impermeable.",
+        "medidas": "19cm de alto por 26cm de largo.",
+        "precio": "25.000"
+    },
+    {
+        "id": "P-13",
+        "titulo": "Morral cruzado engomado",
+        "imagen": "img/Riñoneras y pecheras/Photoroom-20241128_234124.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Photoroom-20241128_234144.png",
+            "img/Riñoneras y pecheras/Photoroom-20241128_234202.png",
+            "img/Riñoneras y pecheras/Photoroom-20241128_234105.png",
+            "img/Riñoneras y pecheras/Photoroom-20241128_234239.png",
+            "img/Riñoneras y pecheras/Photoroom-20241128_234258.png",
+            "img/Riñoneras y pecheras/Photoroom-20241128_234219.png"
+            ],
+        "categoria": {
+            "nombre": "pecheras",
+            "id": "pecheras"
+        },
+        "descripcion": "",
+        "medidas": "31cm de alto por 19cm de largo.",
+        "precio": "24.000"
+    },
+    {
+        "id": "r-01",
+        "titulo": "Riñonera",
+        "imagen": "img/Riñoneras y pecheras/Screenshot_20240518-182942~2.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Screenshot_20240518-182954~2.png",
+            "img/Riñoneras y pecheras/Screenshot_20240427-164012~2.png",
+            "img/Riñoneras y pecheras/Screenshot_20240518-182950~2.png"
+            ],
+        "categoria": {
+            "nombre": "Riñoneras",
+            "id": "rinoneras"
+        },
+        "descripcion": "",
+        "medidas": "15cm de alto por 35cm de largo.",
+        "precio": "22.000"
+    },
+    {
+        "id": "r-02",
+        "titulo": "Riñonera",
+        "imagen": "img/Riñoneras y pecheras/Screenshot_20240518-184323~2.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/Screenshot_20240518-184325~2.png",
+            "img/Riñoneras y pecheras/Screenshot_20240518-184330~2.png",
+            "img/Riñoneras y pecheras/Hombres.jpeg"
+            ],
+        "categoria": {
+            "nombre": "Riñoneras",
+            "id": "rinoneras"
+        },
+        "descripcion": "Riñonera impermeable.",
+        "medidas": "14cm de alto por 20cm de largo.",
+        "precio": "21.000"
+    },
+    {
+        "id": "r-03",
+        "titulo": "Maxi Riñonera",
+        "imagen": "img/Riñoneras y pecheras/20240928_113818_0000.png",
+        "imagenes_adicionales": [
+            "img/Riñoneras y pecheras/20240928_113819_0002.png",
+            "img/Riñoneras y pecheras/20240928_113819_0003.png",
+            "img/Riñoneras y pecheras/20240928_113819_0004.png",
+            "img/Riñoneras y pecheras/20240928_113819_0005.png",
+            "img/Riñoneras y pecheras/20240928_113819_0001.png",
+            "img/Riñoneras y pecheras/20240928_113819_0006.png"
+            ],
+        "categoria": {
+            "nombre": "Riñoneras",
+            "id": "rinoneras"
+        },
+        "descripcion": "Riñonera de cuero PU, tamaño grande. Incluye tira desmontable.",
+        "medidas": "15cm de alto por 22cm de largo.",
+        "precio": "35.000"
+    },
+    {
+        "id": "matero-01",
+        "titulo": "Matero",
+        "imagen": "img/Materos/Photoroom-20240824_202633.png",
+        "imagenes_adicionales": [
+            "img/Materos/Photoroom-20240824_202503.png",
+            "img/Materos/Photoroom-20240824_202609.png",
+            "img/Materos/Photoroom-20240824_202522.png"
+            ],
+        "categoria": {
+            "nombre": "Matero",
+            "id": "materos"
+        },
+        "descripcion": "",
+        "medidas": "",
+        "precio": "28.000"
+    },
+    {
+        "id": "matero-02",
+        "titulo": "Matero",
+        "imagen": "img/Materos/Photoroom-20241021_200615.png",
+        "imagenes_adicionales": [
+            "img/Materos/Photoroom-20241021_200707.png",
+            "img/Materos/Photoroom-20241021_200725.png",
+            "img/Materos/Photoroom-20241021_200648.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185808.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185845.png"
+            ],
+        "categoria": {
+            "nombre": "Matero",
+            "id": "materos"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "1000"
+    },
+    {
+        "id": "matero-03",
+        "titulo": "Matero",
+        "imagen": "img/Materos/20240822_205348_0000.png",
+        "imagenes_adicionales": [
+            "img/Materos/20240822_205348_0001.png"
+            ],
+        "categoria": {
+            "nombre": "Matero",
+            "id": "materos"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "1000"
+    },
+    {
+        "id": "maternal-01",
+        "titulo": "Mochila Maternal con cuna",
+        "imagen": "img/Maternal/Screenshot_20240515-231256~2.png",
+        "imagenes_adicionales": [
+            "img/Maternal/Screenshot_20240515-231252~2.png",
+            "img/Maternal/Screenshot_20240809-213941~2.png",
+            "img/Maternal/IMG-20240808-WA0029.jpg",
+            "img/Maternal/Screenshot_20240809-213938~2.png",
+            "img/Maternal/61+Zw4wJLWL._AC_UL1500_.jpg",
+            "img/Maternal/Screenshot_20240809-213935~2.png",
+            "img/Maternal/Screenshot_20240809-213948~2.png",
+            "img/Maternal/Screenshot_20240515-231322~2.png",
+            "img/Maternal/Screenshot_20240515-231304~2.png",
+            "img/Maternal/Screenshot_20240515-231330~2.png",
+            "img/Maternal/S8850305ccc57498e843734d89b46b7e4V.jpg_640x640q90.jpg",
+            "img/Maternal/Sf2aa1ec64dc847188b20e32494477e407.jpg_640x640q90.jpg"
+            ],
+        "categoria": {
+            "nombre": "Maternales",
+            "id": "maternal"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "55.000"
+    },
+    {
+        "id": "maternal-02",
+        "titulo": "Mochila Maternal",
+        "imagen": "img/Maternal/Screenshot_20240518-194103~2.png",
+        "imagenes_adicionales": [
+            "img/Maternal/600D-3_720x.jpg",
+            "img/Maternal/Screenshot_20240518-194059~2.png",
+            "img/Maternal/81vWylmHMGL._AC_UY1000_.jpg",
+            "img/Maternal/Screenshot_20240518-194052~2.png",
+            "img/Maternal/Hcfdbac7158d14783a511bfaa5d14d2129.jpg_640x640Q90.jpg_.webp",
+            "img/Maternal/Screenshot_20240518-194049~2.png"
+            ],
+        "categoria": {
+            "nombre": "Maternales",
+            "id": "maternal"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "maternal-03",
+        "titulo": "Mochila Maternal",
+        "imagen": "img/Maternal/Screenshot_20240518-192930~2.png",
+        "imagenes_adicionales": [
+            "img/Maternal/Screenshot_20240518-192938~2.png",
+            "img/Maternal/Screenshot_20240518-192948~2.png",
+            "img/Maternal/Screenshot_20240518-192946~2.png",
+            "img/Maternal/Screenshot_20240518-192933~2.png",
+            "img/Maternal/Screenshot_20240518-192935~2.png"
+            ],
+        "categoria": {
+            "nombre": "Maternales",
+            "id": "maternal"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-01",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Photoroom-20241028_092607.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20241028_092437.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092419.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092546.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092629.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092505.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092706.png",
+            "img/Bolsos deportivos/Photoroom-20241028_092649.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-02",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Photoroom-20241027_201842.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20241027_201906.png",
+            "img/Bolsos deportivos/Photoroom-20241028_082405.png",
+            "img/Bolsos deportivos/Photoroom-20241027_201931.png",
+            "img/Bolsos deportivos/Photoroom-20241028_082026.png",
+            "img/Bolsos deportivos/Photoroom-20241028_082050.png",
+            "img/Bolsos deportivos/Photoroom-20241028_082342.png",
+            "img/Bolsos deportivos/Photoroom-20241027_201820.png",
+            "img/Bolsos deportivos/Photoroom-20241028_082433.png",
+            "img/Bolsos deportivos/Photoroom-20241027_201956.png",
+            "img/Bolsos deportivos/Photoroom-20241027_202016.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-03",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Screenshot_20241027-194934-881.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20241027-194926-064.png",
+            "img/Bolsos deportivos/Screenshot_20241027-194943-443.png",
+            "img/Bolsos deportivos/Screenshot_20241027-194951-559.png",
+            "img/Bolsos deportivos/Screenshot_20241027-194959-746.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-04",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Photoroom-20241007_112747.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20241007_112728.png",
+            "img/Bolsos deportivos/Photoroom-20241007_112950.png",
+            "img/Bolsos deportivos/Photoroom-20241007_112708.png",
+            "img/Bolsos deportivos/Photoroom-20241007_112925.png",
+            "img/Bolsos deportivos/Photoroom-20241007_112903.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-05",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Screenshot_20241001-200237-780.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20241001-200248-262.png",
+            "img/Bolsos deportivos/20241001_201205_0000.png",
+            "img/Bolsos deportivos/Screenshot_20241001-200330-859.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-06",
+        "titulo": "Bolso de mano",
+        "imagen": "img/Bolsos deportivos/Screenshot_20241001-195203-306.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20241001-195143-777.png",
+            "img/Bolsos deportivos/Screenshot_20241001-195152-180.png",
+            "img/Bolsos deportivos/Screenshot_20241001-195215-937.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "45.000"
+    },
+    {
+        "id": "bolsos-07",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240922-194215-731.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240922-194224-706.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194233-346.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194241-931.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194251-350.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194300-261.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194311-052.png",
+            "img/Bolsos deportivos/Screenshot_20240922-194318-293.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-08",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/Photoroom-20240909_185032.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20240909_185048.png",
+            "img/Bolsos deportivos/Photoroom-20240909_184911.png",
+            "img/Bolsos deportivos/Photoroom-20240909_184928.png",
+            "img/Bolsos deportivos/Photoroom-20240909_184853.png",
+            "img/Bolsos deportivos/Photoroom-20240909_184944.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-09",
+        "titulo": "Bolso Deportivo t60",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240905-114648-282.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240905-114636-456.png",
+            "img/Bolsos deportivos/Screenshot_20240905-114628-016.png",
+            "img/Bolsos deportivos/Photoroom-20240905_114948.png",
+            "img/Bolsos deportivos/Photoroom-20240905_114805.png",
+            "img/Bolsos deportivos/Photoroom-20240905_114824.png",
+            "img/Bolsos deportivos/Photoroom-20240905_114740.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-10",
+        "titulo": "Bolso Deportivo",
+        "imagen": "img/Bolsos deportivos/20240824_102430_0001.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/20240824_102430_0002.png",
+            "img/Bolsos deportivos/20240824_102431_0003.png",
+            "img/Bolsos deportivos/20240824_102431_0004.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-11",
+        "titulo": "Bolso Deportivo de Boca",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240823-175959-906.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240823-180011-101.png",
+            "img/Bolsos deportivos/Screenshot_20240823-180026-772.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-12",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240823-180240-208.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240823-180123-815.png",
+            "img/Bolsos deportivos/Screenshot_20240823-180225-697.png",
+            "img/Bolsos deportivos/Screenshot_20240823-180251-793.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-13",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Photoroom-20240818_010631~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20240818_010559~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010411~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010508~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010531~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010843~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010752~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010443~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010822~2.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-14",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Photoroom-20240818_010930~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20240818_011041~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010954~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_011016~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010658~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010908~2.png",
+            "img/Bolsos deportivos/Photoroom-20240818_010752~2.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-15",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Photoroom-20240812_205905~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Photoroom-20240812_211108.png",
+            "img/Bolsos deportivos/Photoroom-20240812_205640.png",
+            "img/Bolsos deportivos/Photoroom-20240812_211431.png",
+            "img/Bolsos deportivos/Photoroom-20240812_205722.png",
+            "img/Bolsos deportivos/Photoroom-20240812_211149~2.png",
+            "img/Bolsos deportivos/Photoroom-20240812_205746.png",
+            "img/Bolsos deportivos/Photoroom-20240812_211332.png",
+            "img/Bolsos deportivos/Photoroom-20240812_211250.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-16",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240823-180240-208.png",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-17",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240809-222150~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240809-222153~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222156~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222145~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222148~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222130~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222136~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222140~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-222124~2.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "45.000"
+    },
+    {
+        "id": "bolsos-18",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240809-220435~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240809-220438~2.png",
+            "img/Bolsos deportivos/Screenshot_20240809-220441~2.png",
+            "img/Bolsos deportivos/Screenshot_20240505-125514~2.png",
+            "img/Bolsos deportivos/712edOlUOtL._AC_UY1000_DpWeblab_~2.jpg"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-19",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/25_20240602_161856_0024.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/24_20240602_161856_0023.png",
+            "img/Bolsos deportivos/23_20240602_161856_0022.png",
+            "img/Bolsos deportivos/22_20240602_161855_0021.png",
+            "img/Bolsos deportivos/30_20240602_161856_0029.png",
+            "img/Bolsos deportivos/27_20240602_161856_0026.png",
+            "img/Bolsos deportivos/29_20240602_161856_0028.png",
+            "img/Bolsos deportivos/28_20240602_161856_0027.png",
+            "img/Bolsos deportivos/26_20240602_161856_0025.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "bolsos-20",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/Screenshot_20240516-173716~2.png",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20240516-173708~2.png",
+            "img/Bolsos deportivos/f0aa202a-3078-423a-a813-16c32d8acfb7.5689a5bffd72f160de527883d15c8a0e.jpeg",
+            "img/Bolsos deportivos/Screenshot_20240516-173710~2.png",
+            "img/Bolsos deportivos/Screenshot_20240516-173720~4.png",
+            "img/Bolsos deportivos/Screenshot_20240516-173713~2.png",
+            "img/Bolsos deportivos/Screenshot_20240516-173723~3.png",
+            "img/Bolsos deportivos/IMG-20240516-WA0078.jpg",
+            "img/Bolsos deportivos/712+q+gnDBL._AC_UY580_.jpg"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "38.000"
+    },
+    {
+        "id": "bolsos-21",
+        "titulo": "Bolso Deportivo de River",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            "img/Bolsos deportivos/Screenshot_20241112-092943-361.png",
+            "img/Bolsos deportivos/Screenshot_20240518-214533~2.png",
+            "img/Bolsos deportivos/e23e4dc6-29a6-4732-8376-172f0c2c6ffe.jpg",
+            "img/Bolsos deportivos/Screenshot_20240518-214543~2.png"
+            ],
+        "categoria": {
+            "nombre": "Bolsos Deportivos",
+            "id": "bolsosdep"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "portaNot-01",
+        "titulo": "Porta Notebook",
+        "imagen": "img/Porta laptop/2_20240609_220307_0001.png",
+        "imagenes_adicionales": [
+            "img/Porta laptop/3_20240609_220307_0002.png",
+            "img/Porta laptop/1_20240609_220307_0000.png",
+            "img/Porta laptop/4_20240609_220307_0003.png",
+            "img/Porta laptop/6_20240609_220307_0005.png",
+            "img/Porta laptop/7_20240609_220307_0006.png"
+            ],
+        "categoria": {
+            "nombre": "Porta Notebooks",
+            "id": "notebook"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-01",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Mochilas Escolares/Photoroom-20241128_181821.png",
+        "imagenes_adicionales": [
+            "img/Mochilas Escolares/Photoroom-20241128_181846.png",
+            "img/Mochilas Escolares/Photoroom-20241128_182038.png",
+            "img/Mochilas Escolares/Photoroom-20241128_182106.png",
+            "img/Mochilas Escolares/Photoroom-20241128_181914.png",
+            "img/Mochilas Escolares/Photoroom-20241128_181940.png",
+            "img/Mochilas Escolares/Photoroom-20241128_182012.png"
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-02",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Mochilas Escolares/Photoroom-20241128_185708.png",
+        "imagenes_adicionales": [
+            "img/Mochilas Escolares/Photoroom-20241128_185737.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185808.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185845.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185907.png",
+            "img/Mochilas Escolares/Photoroom-20241128_185947.png",
+            "img/Mochilas Escolares/Photoroom-20241128_190011.png"
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-03",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Mochilas Escolares/Photoroom-20241128_191620.png",
+        "imagenes_adicionales": [
+            "img/Mochilas Escolares/Photoroom-20241128_191641.png",
+            "img/Mochilas Escolares/Photoroom-20241128_191659.png",
+            "img/Mochilas Escolares/Photoroom-20241128_191717.png",
+            "img/Mochilas Escolares/Photoroom-20241128_191838.png",
+            "img/Mochilas Escolares/Photoroom-20241128_191756.png"
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-04",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-05",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-06",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-07",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-08",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-09",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    },
+    {
+        "id": "escolar-10",
+        "titulo": "Mochila Escolar",
+        "imagen": "img/Bolsos deportivos/fe2fd9e7-77a2-4309-b7e8-90d285436a10.jpg",
+        "imagenes_adicionales": [
+            
+            ],
+        "categoria": {
+            "nombre": "Mochila Escolar",
+            "id": "escolar"
+        },
+        "descripcion": "dgogdohgodhg",
+        "tamano": "25 x 25",
+        "precio": "35.000"
+    }
+    
+]

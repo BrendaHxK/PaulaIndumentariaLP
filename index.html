@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paula Indumentaria</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="wrapper">
+        <!-- Header -->
+        <header class="header-mobile">
+            <h1 class="logo">Paula Indumentaria</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+
+        <!-- Menú lateral -->
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x">X</i>
+            </button>
+            <header>
+                <h1 class="logo">Paula Indumentaria</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li><a href="?categoria=todos" id="todos" class="boton-menu active">Todos los productos</a></li>
+                    <li><a href="?categoria=mochilas" id="mochilas" class="boton-menu">Mochilas</a></li>
+                    <li><a href="?categoria=caryb" id="caryb" class="boton-menu">Carteras y bolsos</a></li>
+                    <li><a href="?categoria=pecheras" id="pecheras" class="boton-menu">Morrales cruzados</a></li>
+                    <li><a href="?categoria=rinoneras" id="rinoneras" class="boton-menu">Riñoneras</a></li>
+                    <li><a href="?categoria=materos" id="materos" class="boton-menu">Materos</a></li>
+                    <li><a href="?categoria=maternal" id="maternal" class="boton-menu">Maternal</a></li>
+                    <li><a href="?categoria=bolsosdep" id="bolsosdep" class="boton-menu">Bolsos deportivos</a></li>
+                    <li><a href="?categoria=notebook" id="notebook" class="boton-menu">Porta Notebook</a></li>
+                    <li><a href="?categoria=escolar" id="escolar" class="boton-menu">Mochilas escolares</a></li>
+                    <li><a href="?categoria=Verano" id="Verano" class="boton-menu">Artículos de Verano</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Contenido principal -->
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div class="filtro-precio">
+                <label for="orden-precio">Ordenar por:</label>
+                <select id="orden-precio">
+                    <option value="default">Seleccionar</option>
+                    <option value="menor-mayor">Precio: Menor a Mayor</option>
+                    <option value="mayor-menor">Precio: Mayor a Menor</option>
+                </select>
+            </div>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Footer fuera de .wrapper para evitar conflictos -->
+    <footer>
+        <p>Contacto:</p>
+        <div class="social-links">
+            <a href="https://www.instagram.com/paulaindumentarialp/" target="_blank">Instagram</a>
+            <a href="https://wa.me/542216413004" target="_blank">WhatsApp</a>
+            <a href="https://www.facebook.com/profile.php?id=100094695319833&locale=es_LA" target="_blank">Facebook</a>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const aside = document.querySelector('aside');
+            const openMenu = document.querySelector('.open-menu');
+            const closeMenu = document.querySelector('.close-menu');
+            const body = document.body;
+
+            openMenu.addEventListener('click', () => {
+                aside.classList.add('aside-visible');
+                body.classList.add('menu-abierto');
+            });
+
+            closeMenu.addEventListener('click', () => {
+                aside.classList.remove('aside-visible');
+                body.classList.remove('menu-abierto');
+            });
+
+            window.addEventListener('click', function (event) {
+                if (!aside.contains(event.target) && !openMenu.contains(event.target)) {
+                    aside.classList.remove('aside-visible');
+                    body.classList.remove('menu-abierto');
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>
