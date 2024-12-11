@@ -1,9 +1,9 @@
 [
     {
         "id": "mochila-01",
-    "titulo": "Mochila de Cuero PU",
-    "imagen": "/PaulaIndumentariaLP/img/Mochilas/1_20240530_172413_0000.png",
-    "imagenes_adicionales": [
+        "titulo": "Mochila de Cuero PU",
+        "imagen": "img/Mochilas/1_20240530_172413_0000.png"    
+        "imagenes_adicionales": [
         "/PaulaIndumentariaLP/img/Mochilas/2_20240530_172414_0001.png",
         "/PaulaIndumentariaLP/img/Mochilas/MochilaPU2-Photoroom.jpg",
         "/PaulaIndumentariaLP/img/Mochilas/MochilaPU1-Photoroom.jpg"
