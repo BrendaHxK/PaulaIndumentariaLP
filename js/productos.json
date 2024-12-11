@@ -1,21 +1,21 @@
 [
-    {
-        "id": "mochila-01",
-        "titulo": "Mochila de Cuero PU",
-        "imagen": "img/Mochilas/1_20240530_172413_0000.png",    
-        "imagenes_adicionales": [
-        "/PaulaIndumentariaLP/img/Mochilas/2_20240530_172414_0001.png",
-        "/PaulaIndumentariaLP/img/Mochilas/MochilaPU2-Photoroom.jpg",
-        "/PaulaIndumentariaLP/img/Mochilas/MochilaPU1-Photoroom.jpg"
-            ],
-        "categoria": {
-            "nombre": "Mochilas",
-            "id": "mochilas"
-        },
-        "descripcion": "Mochila de cuero ecológico. Entra una carpeta A4.",
-        "medidas": "36cm de alto x 33cm de ancho",
-        "precio": "26.000"
+   {
+    "id": "mochila-01",
+    "titulo": "Mochila de Cuero PU",
+    "imagen": "img/Mochilas/1_20240530_172413_0000.png",
+    "imagenes_adicionales": [
+        "img/Mochilas/2_20240530_172414_0001.png",
+        "img/Mochilas/MochilaPU2-Photoroom.jpg",
+        "img/Mochilas/MochilaPU1-Photoroom.jpg"
+    ],
+    "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
     },
+    "descripcion": "Mochila de cuero ecológico. Entra una carpeta A4.",
+    "medidas": "36cm de alto x 33cm de ancho",
+    "precio": "26.000"
+},
     {
         "id": "mochila-02",
         "titulo": "Mochila Pink + Riñonera",
